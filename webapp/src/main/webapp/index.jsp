@@ -1,5 +1,4 @@
 <h1> Hello, This is a test deployement !!! </h1>
 <h2>This is an updated deployment</h2>
-This is test 3
 
-<h3> Changes made to check poll SCM and deployment
+This change is made by Yuva.
